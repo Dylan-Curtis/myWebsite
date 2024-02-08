@@ -23,7 +23,7 @@ const greeting = {
   username: "Dylan Curtis",
   title: "Hi all, I'm Dylan",
   subTitle: emoji(
-    "A passionate Full Stack Software Developer 🚀 having an experience of building Web applications with JavaScript / Reactjs  / React Native and some other cool libraries and frameworks."
+    "A motivated Full Stack Software Developer 🚀 who has a diverse background and experience building Web applications with JavaScript / Reactjs  / and Ruby on Rails."
   ),
   resumeLink:
     "https://docs.google.com/document/d/1_N8c_e0pXyEgg-DJvHkvwbCHS_WeV5Axofn5yRerjgU/edit?usp=sharing", // Set to empty to hide the button
@@ -44,11 +44,11 @@ const socialMediaLinks = {
 // Skills Section
 
 const skillsSection = {
-  title: "What I do",
-  subTitle: "CRAZY FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK",
+  title: "What I know",
+  subTitle: "As a Deticatied full-stack developer, I craft seamless digital experiences from front-end aesthetics to back-end functionality.".toUpperCase(),
   skills: [
     emoji(
-      "⚡ Develop highly interactive Front end / User Interfaces for your web applications"
+      "🎨 Designing engaging front-end experiences 🚀 coupled with robust back-end functionality for a truly interactive and dynamic web presence.💻"
     ),
     // emoji("⚡ Progressive Web Applications ( PWA ) in normal and SPA Stacks"),
     // emoji(
@@ -68,12 +68,8 @@ https://fontawesome.com/icons?d=gallery */
       skillName: "css3",
       fontAwesomeClassname: "fab fa-css3-alt"
     },
-    // {
-    //   skillName: "sass",
-    //   fontAwesomeClassname: "fab fa-sass"
-    // },
     {
-      skillName: "JavaScript",
+      skillName: "javaScript",
       fontAwesomeClassname: "fab fa-js"
     },
     {
@@ -97,7 +93,7 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fab fa-aws"
     },
     {
-    skillName: "Figma",
+    skillName: "figma",
     fontAwesomeClassname: "fab fa-figma"
   },
   {
@@ -118,10 +114,11 @@ const educationInfo = {
       logo: require("./assets/images/flatironschool.png"),
       subHeader: "Bachelor of Science in Civil Engineering ",
       duration: "October 2022 - March 2023",
-      desc: "Took corses in Engineering, math, and participated in re",
+      desc: "Graduated with over 600 hours of personalized training and developed multiple full stack projects",
       descBullets: [
         "Developed multiple full stack projects independently",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+        "Leveraged compelling front-end interfaces using JavaScript and React.js",
+        "Implemented comprehensive CRUD functionality in robust backends with support for multiple objects."
       ]
     },
     {
@@ -145,11 +142,11 @@ const techStack = {
   experience: [
     {
       Stack: "Frontend/Design", //Insert stack or technology you have experience in
-      progressPercentage: "80%" //Insert relative proficiency in percentage
+      progressPercentage: "75%" //Insert relative proficiency in percentage
     },
     {
       Stack: "Backend",
-      progressPercentage: "80%"
+      progressPercentage: "75%"
     },
     {
       Stack: "Programming",
@@ -162,7 +159,7 @@ const techStack = {
 // Work experience section
 
 const workExperiences = {
-  display: true, //Set it to true to show workExperiences Section
+  display: false, //Set it to true to show workExperiences Section
   experience: [
     {
       role: "Software Engineer",
