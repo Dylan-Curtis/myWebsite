@@ -112,7 +112,7 @@ const educationInfo = {
     {
       schoolName: "Flatiron Coding Bootcamp",
       logo: require("./assets/images/flatironschool.png"),
-      subHeader: "Bachelor of Science in Civil Engineering ",
+      subHeader: "Certificate of Completion",
       duration: "October 2022 - March 2023",
       desc: "Graduated with over 600 hours of personalized training and developed multiple full stack projects",
       descBullets: [
@@ -126,7 +126,7 @@ const educationInfo = {
       logo: require("./assets/images/WSULogo.png"),
       subHeader: "Bachelor of Science in Civil Engineering ",
       duration: "August 2012 - December 2016",
-      desc: "Took corses in Engineering, Math, and participated in re",
+      desc: "Took corses in Engineering, Math, and Science",
       descBullets: [
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit"    
@@ -204,25 +204,25 @@ const bigProjects = {
   subtitle: "SOME PROJECTS THAT I MADE",
   projects: [
     {
-      // image: require("./assets/images/saayaHealthLogo.webp"),
-      projectName: "Saayahealth",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      image: require("./assets/images/Baseball.jpg"),
+      projectName: "MLB-Connect",
+      projectDesc: "a baseball trivia app",
       footerLink: [
         {
           name: "Visit Website",
-          // url: "http://saayahealth.com/"
+          url: "https://mlb-connect.onrender.com/"
         }
         //  you can add extra buttons here.
       ]
     },
     {
-      image: require("./assets/images/nextuLogo.webp"),
-      projectName: "Nextu",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      image: require("./assets/images/LookoutLogo.png"),
+      projectName: "Firelookout",
+      projectDesc: "A hiking app that connects other firelookout enthusists",
       footerLink: [
         {
           name: "Visit Website",
-          // url: "http://nextu.se/"
+          url: "https://project-firelookout.onrender.com"
         }
       ]
     }
