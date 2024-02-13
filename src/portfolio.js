@@ -128,8 +128,8 @@ const educationInfo = {
       duration: "August 2012 - December 2016",
       desc: "Took corses in Engineering, Math, and Science",
       descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"    
+        "Completed coursework emphasizing practical application through laboratory experiments, design projects, and fieldwork.",
+        "Developed strong problem-solving skills and attention to detail through complex engineering challenges and project-based learning."    
   ]
 }
   ]
@@ -246,47 +246,43 @@ const achievementSection = {
       image: require("./assets/images/certificateOfCompletion.png"),
       imageAlt: "Flatiron Certificate of Completion",
       footerLink: [
-        {
-          name: "Certification",
-          url: "https://drive.google.com/file/d/0B7kazrtMwm5dYkVvNjdNWjNybWJrbndFSHpNY2NFV1p4YmU0/view?usp=sharing"
-        },
-        {
-          name: "Award Letter",
-          url: "https://drive.google.com/file/d/0B7kazrtMwm5dekxBTW5hQkg2WXUyR3QzQmR0VERiLXlGRVdF/view?usp=sharing"
-        },
-        {
-          name: "Google Code-in Blog",
-          url: "https://opensource.googleblog.com/2019/01/google-code-in-2018-winners.html"
-        }
+        // {
+        //   name: "Certification",
+        //   url: "https://drive.google.com/file/d/0B7kazrtMwm5dYkVvNjdNWjNybWJrbndFSHpNY2NFV1p4YmU0/view?usp=sharing"
+        // },
+        // {
+        //   name: "Award Letter",
+        //   url: "https://drive.google.com/file/d/0B7kazrtMwm5dekxBTW5hQkg2WXUyR3QzQmR0VERiLXlGRVdF/view?usp=sharing"
+        // }      
       ]
     },
     {
-      title: "Google Assistant Action",
+      title: "AWS Certified Cloud Practioner",
       subtitle:
         "Developed a Google Assistant Action JavaScript Guru that is available on 2 Billion devices world wide.",
-      // image: require("./assets/images/googleAssistantLogo.webp"),
-      imageAlt: "Google Assistant Action Logo",
+      image: require("./assets/images/cloudPractitioner.png"),
+      imageAlt: "AWS Cloud Practioner Logo",
       footerLink: [
         {
-          name: "View Google Assistant Action",
-          url: "https://assistant.google.com/services/a/uid/000000100ee688ee?hl=en"
+          name: "AWS Cloud Practioner",
+          url: "https://aws.amazon.com/certification/certified-cloud-practitioner/"
         }
       ]
     },
 
-    {
-      title: "PWA Web App Developer",
-      subtitle: "Completed Certifcation from SMIT for PWA Web App Development",
-      image: require("./assets/images/pwaLogo.webp"),
-      imageAlt: "PWA Logo",
-      footerLink: [
-        {name: "Certification", url: ""},
-        {
-          name: "Final Project",
-          url: "https://pakistan-olx-1.firebaseapp.com/"
-        }
-      ]
-    }
+    // {
+    //   title: "PWA Web App Developer",
+    //   subtitle: "Completed Certifcation from SMIT for PWA Web App Development",
+    //   // image: require("./assets/images/pwaLogo.webp"),
+    //   imageAlt: "PWA Logo",
+    //   footerLink: [
+    //     {name: "Certification", url: ""},
+    //     {
+    //       name: "Final Project",
+    //       url: "https://pakistan-olx-1.firebaseapp.com/"
+    //     }
+    //   ]
+    // }
   ],
   display: true // Set false to hide this section, defaults to true
 };
@@ -300,7 +296,7 @@ const blogSection = {
   displayMediumBlogs: "true", // Set true to display fetched medium blogs instead of hardcoded ones
   blogs: [
     {
-      url: "https://blog.usejournal.com/create-a-google-assistant-action-and-win-a-google-t-shirt-and-cloud-credits-4a8d86d76eae",
+      url: "https://medium.com/@dcurtisj/recently-while-creating-my-final-project-for-flatiron-bootcamp-i-tried-to-implement-devise-and-a280e32721eb",
       title: "Win a Google Assistant Tshirt and $200 in Google Cloud Credits",
       description:
         "Do you want to win $200 and Google Assistant Tshirt by creating a Google Assistant Action in less then 30 min?"
@@ -312,7 +308,7 @@ const blogSection = {
         "React is a JavaScript library for building User Interface. It is maintained by Facebook and a community of individual developers and companies."
     }
   ],
-  display: true // Set false to hide this section, defaults to true
+  display: false // Set false to hide this section, defaults to true
 };
 
 // Talks Sections
