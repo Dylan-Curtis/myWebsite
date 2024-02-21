@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/myWebsite/static/css/main.2126f309.css",
+    "main.js": "/myWebsite/static/js/main.b9654c04.js",
+    "static/css/64.bba8fa55.chunk.css": "/myWebsite/static/css/64.bba8fa55.chunk.css",
+    "static/js/64.88633107.chunk.js": "/myWebsite/static/js/64.88633107.chunk.js",
+    "static/css/769.b3cbb36b.chunk.css": "/myWebsite/static/css/769.b3cbb36b.chunk.css",
+    "static/js/769.e6c40761.chunk.js": "/myWebsite/static/js/769.e6c40761.chunk.js",
+    "static/media/Baseball.jpg": "/myWebsite/static/media/Baseball.ccf5087baa83ae3f74c3.jpg",
+    "static/media/certificateOfCompletion.png": "/myWebsite/static/media/certificateOfCompletion.ab300e9d0562f957785b.png",
+    "static/media/Montserrat-Regular.ttf": "/myWebsite/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/WSULogo.png": "/myWebsite/static/media/WSULogo.975e6cf8aad4e32cffc8.png",
+    "static/media/Agustina.woff": "/myWebsite/static/media/Agustina.eb0c59dda4cc308cba96.woff",
+    "static/media/flatironschool.png": "/myWebsite/static/media/flatironschool.ab624fe893a51f0e383f.png",
+    "static/media/manOnTable.svg": "/myWebsite/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
+    "static/media/cloudPractitioner.png": "/myWebsite/static/media/cloudPractitioner.1d4d9fa250269a5b5067.png",
+    "static/media/contactMailDark.svg": "/myWebsite/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
+    "static/media/developerActivity.svg": "/myWebsite/static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
+    "static/media/skill.svg": "/myWebsite/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
+    "index.html": "/myWebsite/index.html",
+    "static/media/talksCardBack.svg": "/myWebsite/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
+    "main.2126f309.css.map": "/myWebsite/static/css/main.2126f309.css.map",
+    "main.b9654c04.js.map": "/myWebsite/static/js/main.b9654c04.js.map",
+    "64.bba8fa55.chunk.css.map": "/myWebsite/static/css/64.bba8fa55.chunk.css.map",
+    "64.88633107.chunk.js.map": "/myWebsite/static/js/64.88633107.chunk.js.map",
+    "769.b3cbb36b.chunk.css.map": "/myWebsite/static/css/769.b3cbb36b.chunk.css.map",
+    "769.e6c40761.chunk.js.map": "/myWebsite/static/js/769.e6c40761.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2126f309.css",
+    "static/js/main.b9654c04.js"
+  ]
+}
